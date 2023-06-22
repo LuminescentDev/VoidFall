@@ -1,0 +1,4 @@
+name: VoidFall
+version: '${project.version}'
+main: dev.luminescent.voidfall.VoidFall
+api-version: 1.19
