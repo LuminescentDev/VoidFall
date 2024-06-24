@@ -18,7 +18,7 @@ import java.util.UUID;
 public final class VoidFall extends JavaPlugin implements Listener {
 
     List<UUID> invinciblePlayers = new ArrayList<>();
-    // comment uwu
+
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(this, this);
